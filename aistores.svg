@@ -1,0 +1,13 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="aistores monogram">
+  <defs>
+    <linearGradient id="m1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6EE7F9"></stop>
+      <stop offset="100%" stop-color="#7C3AED"></stop>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="144" height="144" rx="28" fill="#0B1020"></rect>
+  <!-- A -->
+  <path d="M40 116 L80 36 L120 116 Z M64 96 H96 L80 64 Z" fill="url(#m1)"></path>
+  <!-- S（负形+描边） -->
+  <path d="M98 52 C120 52 120 76 98 76 H62 C40 76 40 100 62 100 H118" fill="none" stroke="#E2E8F0" stroke-width="10" stroke-linecap="round"></path>
+</svg>
